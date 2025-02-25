@@ -1,5 +1,9 @@
 # AWS DevOps CICD Pipeline
 
+# **Project Architecture**
+
+![](https://miro.medium.com/v2/resize:fit:1431/1*9s2m5NLVfW-A3IbDRg3b1w.png)
+
 Developing and Deploying a video streaming application on EC2 using Docker and AWS Developers Tools.
 
 * `CodeCommit`: For Source Code Management
@@ -26,9 +30,7 @@ Clone this Repository
 git clone https://github.com/VinsmokeSomya/AWS-DevOps-CICD-Pipeline.git
 ```
 
-# **Project Architecture**
 
-![](https://miro.medium.com/v2/resize:fit:1431/1*9s2m5NLVfW-A3IbDRg3b1w.png)
 
 # **Setting Up CodeCommit**
 
